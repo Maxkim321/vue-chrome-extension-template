@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": "vite",
-    "dev:ext": "NODE_ENV=development vite",
+    "dev:ext": "NODE_ENV=development vite build --watch",
     "build": "vite build",
     "preview": "vite preview",
     "lint": "eslint . --fix --cache",

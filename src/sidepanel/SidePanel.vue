@@ -7,5 +7,3 @@ defineOptions({
   name: 'SidePanel',
 })
 </script>
-
-<style scoped></style>

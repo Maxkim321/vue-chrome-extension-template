@@ -1,4 +1,3 @@
-import '@/assets/main.css'
 
 const connectHmr = () => {
   const url = globalThis.__EXT_HMR__

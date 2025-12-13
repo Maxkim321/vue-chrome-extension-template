@@ -7,5 +7,3 @@ defineOptions({
   name: 'OptionsPage',
 })
 </script>
-
-<style lang="scss" scoped></style>
