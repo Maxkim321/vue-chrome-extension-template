@@ -12,4 +12,4 @@ If you're interested, you can read the [Getting Started](./docs/en-US/gettingSta
 
 ## Default Popup Style
 
-![alt text](./docs/popupImage.png)
+<img src="./docs/popupImage.png" alt="alt text" style="width: 50%;" />

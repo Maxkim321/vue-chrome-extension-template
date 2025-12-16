@@ -12,4 +12,4 @@
 
 ## 默认的弹窗样式如下
 
-![alt text](./docs/popupImage.png)
+<img src="./docs/popupImage.png" alt="alt text" style="width: 50%;" />
