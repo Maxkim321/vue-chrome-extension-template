@@ -38,3 +38,9 @@ __screenshots__/
 # Chrome Extension
 /extension/*
 /extension/manifest.json
+
+# CRX Key
+key.pem
+
+# Release Directory
+/release/*
