@@ -1,6 +1,6 @@
 # vue-chrome-extension-template
 
-![alt text](./docs/logo.png)
+![alt text](./docs/asset/logo.png)
 
 中文 | [English](./README.md)
 
@@ -12,4 +12,4 @@
 
 ## 默认的弹窗样式如下
 
-<img src="./docs/popupImage.png" alt="alt text" style="width: 50%;" />
+<img src="./docs/asset/popupImage.png" alt="alt text" style="width: 50%;" />

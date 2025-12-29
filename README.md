@@ -1,6 +1,6 @@
 # vue-chrome-extension-template
 
-![alt text](./docs/logo.png)
+![alt text](./docs/asset/logo.png)
 
 English | [中文](./README_zh.md)
 
@@ -12,4 +12,4 @@ If you're interested, you can read the [Getting Started](./docs/en-US/gettingSta
 
 ## Default Popup Style
 
-<img src="./docs/popupImage.png" alt="alt text" style="width: 50%;" />
+<img src="./docs/asset/popupImage.png" alt="alt text" style="width: 50%;" />

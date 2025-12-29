@@ -3,15 +3,14 @@ layout: home
 
 hero:
   name: "Vue Chrome Extension Template"
-  text: "用 Vue 和 JavaScript 构建 Chrome 扩展"
-  tagline: 支持侧边栏、弹窗、选项页，开发体验良好
+  image:
+    src: /asset/logo.svg
+    alt: "Logo"
+  tagline: 用 Vue 和 JavaScript 构建 Chrome 扩展</br>支持侧边栏、弹窗、选项页，开发体验良好
   actions:
     - theme: brand
-      text: 中文文档
+      text: 文档
       link: /zh-CN/起步
-    - theme: alt
-      text: English Docs
-      link: /en-US/gettingStart
 
 features:
   - title: 热更新开发体验
