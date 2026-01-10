@@ -9,8 +9,11 @@ hero:
   tagline: 用 Vue 和 JavaScript 构建 Chrome 扩展</br>支持侧边栏、弹窗、选项页，开发体验良好
   actions:
     - theme: brand
-      text: 文档
-      link: /zh-CN/起步
+      text: 中文起步
+      link: /zh-CN/起步.md
+    - theme: alt
+      text: Getting Started
+      link: /en-US/gettingStart.md
 
 features:
   - title: 热更新开发体验

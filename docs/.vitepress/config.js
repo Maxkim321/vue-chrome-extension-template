@@ -10,17 +10,22 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '中文文档', link: '/zh-CN/起步' },
+      { text: '中文文档', link: '/zh-CN/起步.md' },
+      { text: 'English Documentation', link: '/en-US/gettingStart.md' },
     ],
     sidebar: [
       {
         text: '文档',
         items: [
-          { text: '起步', link: '/zh-CN/起步' },
-          { text: '模板使用', link: '/zh-CN/模板使用' },
-          { text: '提示词', link: '/zh-CN/提示词' },
-          { text: '侧边栏开发注意事项', link: '/zh-CN/侧边栏开发注意事项' },
+          { text: '起步', link: '/zh-CN/起步.md' },
+          { text: '模板使用', link: '/zh-CN/模板使用.md' },
+          { text: '提示词', link: '/zh-CN/提示词.md' },
+          { text: '侧边栏开发注意事项', link: '/zh-CN/侧边栏开发注意事项.md' },
         ],
+      },
+      {
+        text: 'English Documentation',
+        items: [{ text: 'Getting Started', link: '/en-US/gettingStart.md' }],
       },
     ],
     socialLinks: [
