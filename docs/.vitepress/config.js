@@ -1,6 +1,9 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  // 如果你的 GitHub Pages 部署在 https://<USERNAME>.github.io/<REPO>/ 上，
+  // 请将 base 设置为 '/<REPO>/'。例如 '/vue-chrome-extension-template/'
+  base: '/vue-chrome-extension-template/',
   title: 'vue-chrome-extension-template',
   description: 'use Vue and Javascript to build a chrome extension',
   lang: 'zh-CN',
