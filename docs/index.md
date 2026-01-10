@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "Vue Chrome Extension Template"
   image:
-    src: ./asset/logo.svg
+    src: https://raw.githubusercontent.com/Simonmie/vue-chrome-extension-template/2346f63f05b2a1e9d6945de516a742e23fdc7a10/docs/asset/logo.svg
     alt: "Logo"
   tagline: 用 Vue 和 JavaScript 构建 Chrome 扩展</br>支持侧边栏、弹窗、选项页，开发体验良好
   actions:
