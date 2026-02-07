@@ -104,9 +104,9 @@ export default defineConfig({
     },
     rollupOptions: {
       input: {
-        options: r('src/options/index.html'),
-        popup: r('src/popup/index.html'),
-        sidepanel: r('src/sidepanel/index.html'),
+        options: r('src/ui/options/index.html'),
+        popup: r('src/ui/popup/index.html'),
+        sidepanel: r('src/ui/sidepanel/index.html'),
         ...(isDev
           ? { 'src/background/dev-hmr': r('src/background/dev-hmr.js') }
           : { 'src/background/main': r('src/background/main.js') }),

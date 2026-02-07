@@ -18,8 +18,8 @@ export const getManifest = () => {
         32: 'dist/icons/logo-32.png',
       },
     },
-    side_panel: { default_path: 'dist/src/sidepanel/index.html' },
-    options_page: 'dist/src/options/index.html',
+    side_panel: { default_path: 'dist/src/ui/sidepanel/index.html' },
+    options_page: 'dist/src/ui/options/index.html',
     permissions: ['storage', 'sidePanel'],
     host_permissions: isDev ? [`http://localhost:${port}/*`] : [],
     background: isDev

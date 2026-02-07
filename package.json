@@ -10,7 +10,7 @@
     "dev": "vite",
     "dev:ext": "cross-env NODE_ENV=development vite build --watch",
     "build": "vite build",
-    "build:crx": "npm run build && node build-crx.js",
+    "build:crx": "npm run build && node tools/build-crx.js",
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
