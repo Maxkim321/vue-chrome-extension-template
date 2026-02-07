@@ -44,3 +44,6 @@ key.pem
 
 # Release Directory
 /release/*
+
+# Force include pnpm-lock.yaml (overriding potential global ignores)
+!pnpm-lock.yaml
