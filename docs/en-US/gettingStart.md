@@ -23,23 +23,24 @@ npm install
 ├── background
 │   ├── dev-hmr.js  // Hot Module Replacement script for development
 │   └── main.js  // Background script
-├── logic
+├── logic // Background logic related code
 │   └── common-setup.js  // Common setup script
 ├── manifest.js // Script to generate manifest.json
-├── options // Options page
-│   ├── OptionsPage.vue
-│   ├── index.html
-│   └── main.js
-├── popup // Popup
-│   ├── PopupComponent.vue
-│   ├── index.html
-│   └── main.js
-├── sidepanel // Side panel
-│   ├── SidePanel.vue
-│   ├── assets
-│   │   └── logo.png
-│   ├── index.html
-│   └── main.js
+├── ui // User interface related code
+│   ├── options // Options page
+│   │   ├── OptionsPage.vue
+│   │   ├── index.html
+│   │   └── main.js
+│   ├── popup // Popup
+│   │   ├── PopupComponent.vue
+│   │   ├── index.html
+│   │   └── main.js
+│   ├── sidepanel // Side panel
+│   │   ├── SidePanel.vue
+│   │   ├── assets
+│   │   │   └── logo.png
+│   │   ├── index.html
+│   │   └── main.js
 └── utils
     ├── base.js // Basic utility functions
     └── config.js // Configuration file functions
